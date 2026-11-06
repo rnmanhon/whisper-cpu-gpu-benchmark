@@ -1,0 +1,7 @@
+.git
+**/audio
+**/models
+**/__pycache__
+*.jsonl
+*.zip
+.env

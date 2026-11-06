@@ -1,0 +1,15 @@
+# Keep local recordings, downloaded weights and generated transcripts local.
+**/audio/
+**/models/
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.pt
+*.bin
+*.safetensors
+*.jsonl
+__pycache__/
+*.py[cod]
+.venv/
+.env
